@@ -1,0 +1,9 @@
+{
+  "description": "This json is list of complete message in Villa chat system",
+  "messages": [
+    "Hello",
+    "Thank you",
+    "สวัสดีครับ/ค่ะ",
+    "ขอบคุณครับ/ค่ะ"
+  ]
+}
