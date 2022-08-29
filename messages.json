@@ -4,6 +4,24 @@
     "Hello",
     "Thank you",
     "สวัสดีครับ/ค่ะ",
-    "ขอบคุณครับ/ค่ะ"
+    "ขอบคุณครับ/ค่ะ",
+    "สินค้าชนิดนี้หมด คุณลูกค้าสะดวกรับสินค้าทดแทนไหมคะ?",
+    "This Product is out of stock. Can you get a similar product for a replacement?",
+    "เนื่องจากที่อยู่ในการจัดส่งไม่ชัดเจน แอดมินรบกวนขอข้อมูลที่อยู่ในการจัดส่งเพิ่มเติมด้วยนะคะ?",
+    "Due to unclear delivery address. Could we have your full address please? (Condo name or Village name or any detail)",
+    "สินค้าจะหมดอายุภายใน 7 วันนี้ คุณลูกค้าต้องการรับสินค้าอยู่ไหมคะ?",
+    "This product will expire with in 7 days. Would you like to receive that ?",
+    "รายการ Beirut ปกติร้านจะเปิดทำการ เวลา11.00 เช้านะคะ คุณลูกค้าสะดวกรอร้านเปิดไหมคะ?",
+    "The Beirut restaurant will be open at 11.00 a.m. Are you comfortable waiting for this item?",
+    "ถ้าคุณลูกค้ารับสินค้าชนิดนี้แทนจะมียอดส่วนต่างที่ต้องชำระเพิ่มนะคะ สะดวกชำระเป็นเงินสด หรือโอนเงินคะ?",
+    "If you accept for the substitute product. There will be an additional amount of the difference to be paid. Would you like to pay by cash? Or bank transfer ?",
+    "สินค้าประเภทนี้ชนิดเดียวกัน แต่มีความแตกต่างกันตรงยี่ห้อ คุณลูกค้าสะดวกรับแทนไหมคะ?",
+    "This product is the same type but just difference brand. Would you like to receive that?",
+    "สินค้าที่คุณลูกค้าสั่งมาเป็น Pre - Order ปกติแล้วจะใช้เวลารอประมาณ 7-14 วัน. คุณลูกค้าสะดวกรอไหมคะ?",
+    "This product is Pre- Order (Approximately time with in 7-14 days for the product to arrive.Are you convenience for waiting?",
+    "แอดมินขอนุญาตเช็คสินค้าให้สักครู่นะคะ.",
+    "Let me check a stock first.Please wait a moment.",
+    "สินค้าที่คุณลูกค้ารับแทนอาจมีความแตกต่างกันในเรื่องของน้ำหนักนะคะ.",
+    "The item that you need to replacement there may be difference in weight."
   ]
 }
