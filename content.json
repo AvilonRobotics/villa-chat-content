@@ -1,0 +1,55 @@
+{
+  "chatPatternGroup": [
+    {
+      "groupName": "Greeting/ทักทาย/ทั่วไป",
+      "patterns": [
+        "Hello! How can we assist you today?",
+        "Let us know if you need any further assistance. We're happy to help",
+        "Thank you for shopping with Villa Market Online. Have a wonderful day"
+      ]
+    },
+    {
+      "groupName": "Apologize",
+      "patterns": [
+        "Sorry for the inconvenience! We are working on resolving this issue as soon as possible",
+        "We sincerely apologize. We will investigate this issue and get back to you shortly."
+      ]
+    },
+    {
+      "groupName": "Product Inquiry",
+      "patterns": [
+        "Let us check the availability of this product for you. Please hold for a moment",
+        "This item is temporarily unavailable, and we don’t have an estimated restock date at this time. Let us know if you’d like recommendations for similar products/brands."
+      ]
+    },
+    {
+      "groupName": "Ordering",
+      "patterns": [
+        "Sorry to hear you’re having trouble placing an order. Could you let us know what issue you’re facing and if possible to provide some photo of error/issue please ?",
+        "Please provide a payment slip as confirmation once the payment has been completed. Thank you!"
+      ]
+    },
+    {
+      "groupName": "Picking",
+      "patterns": [
+        "Unfortunately, this item is out of stock. Would you like a substitute as following products?",
+        "Regarding substitute products, the additional cost will be"
+      ]
+    },
+    {
+      "groupName": "Delivery",
+      "patterns": [
+        "Your order has arrived at the delivery location, but we are unable to reach you. Please note that we already leave your order at the lobby/reception/front door as attached photo.",
+        "Your order is on the way and should arrive within 10-15 minutes. Thank you for your patience!",
+        "The driver is experiencing delays due to traffic. We appreciate your understanding. Your order should arrive within",
+        "We sincerely apologize for the delay delivering due to heavy traffic. Your order will arrive soon!"
+      ]
+    },
+    {
+      "groupName": "Refund/Cancle",
+      "patterns": [
+        "Unfortunately, the following item in your order #0250001111 is unavailable and no replaceable products.\n1.\n2. \nIn case of cancellation required, the refund will be issued to your original payment method. Apologies for the inconvenience. "
+      ]
+    }
+  ]
+}
